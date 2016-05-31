@@ -8,3 +8,5 @@ Here's the first change.
 I don't quite get it.
 
 I am trying to pull request.
+
+Learning at blog.jobbole.com.
